@@ -35,5 +35,3 @@ function actionApplyer(start, fns) {
   }
   return start;
 }
-
-
